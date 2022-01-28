@@ -19,3 +19,6 @@
 ---
 ## 国内
 ### [杭州累计确诊30例，推测病毒1月上旬传入，后续仍可能出现多例阳性感染者](https://mp.weixin.qq.com/s/6NQQ4lxe0qBaZlKclQex_w)
+### [杭州将有中到大雪，局部暴雪！](https://mp.weixin.qq.com/s/uLZt_-1EHxWlivd__rnZMA)
+### [习近平将出席北京2022年冬奥会开幕式并举行系列外事活动](https://article.xuexi.cn/articles/index.html?art_id=15323856817374659764&source=share&reedit_timestamp=1643365215000&study_style_id=feeds_default&to_audit_timestamp=2022-01-28+18%3A20%3A15&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=15323856817374659764)
+### [习近平春节前夕赴山西看望慰问基层干部群众 向全国各族人民致以美好的新春祝福 祝各族人民幸福安康祝伟大祖国繁荣富强](https://article.xuexi.cn/articles/index.html?art_id=11545819798432040050&source=share&reedit_timestamp=1643324211000&study_style_id=feeds_default&to_audit_timestamp=2022-01-28+06%3A56%3A51&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=11545819798432040050)
